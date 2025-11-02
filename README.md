@@ -1,2 +1,5 @@
 # Compass
-A simple compass
+
+A simple compass application for Android.
+The compass has multiple indicators.
+
