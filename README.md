@@ -16,4 +16,4 @@ The +/- cover design is an arch bolt as viewed from the side.
 
 The pc version always shows North 0 degrees.
 
-The latest version will be released some time in the future.
+The latest version should be released some time in the future.
