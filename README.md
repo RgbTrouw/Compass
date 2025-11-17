@@ -3,7 +3,7 @@
 A simple compass application for Android.
 The model has multiple indicators: a centre, middle and an external one. 
 
-As is the case with compasses, they would come useful with a map. 
+As is the case with a compass, this would come useful with a map. 
 A mind map, along with psychological triggers could be the subject in this case. 
 
 
