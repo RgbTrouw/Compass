@@ -8,7 +8,7 @@ A mind map, along with psychological triggers could be the subject in this case.
 
 It could also be similar to a poligraph.
 
-"The human body interferes with radio waves by absorbing, reflecting, and scattering them, which can weaken a device's signal." - Google
+"The human body interferes with radio waves by absorbing, reflecting, and scattering them (...)." - Google
 
 
 ** The full version also has a cover on some of the indicators. (See "Compass Cover.png")  
