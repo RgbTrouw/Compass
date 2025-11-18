@@ -12,7 +12,7 @@ It could also be similar to a poligraph.
 
 
 ** The full version also has a cover on some of the indicators. (See "Compass Cover.png")  
-The +/- cover design is an arch bolt as viewed from the side.
+(The +/- cover design is an arch bolt as viewed from the side.)
 
 The pc version always shows North 0 degrees and could serve as virtual reference template.
 
