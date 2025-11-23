@@ -6,7 +6,7 @@ The model has multiple indicators: a centre, middle and an external one.
 As is the case with a compass, this would come useful with a map. 
 A mind map along with psychological triggers could be the subject in this case. 
 
-It hint as a poligraph application. "The human body interferes with radio waves by absorbing, reflecting, and scattering them (...)." - Google
+It suggests some functions of a poligraph application. "The human body interferes with radio waves by absorbing, reflecting, and scattering them (...)." - Google
 
 
 ** The latest version also has a cover on some of the indicators. (See "Compass8.png")  
