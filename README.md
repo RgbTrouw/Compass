@@ -8,7 +8,7 @@ It suggests some functions of a poligraph application. "The human body interfere
 
 The latest version has a cover on some of the indicators. (See "Compass8.png")  
   
-(The +/- cross design is an arch bolt as viewed from the side.)
+(The cross design is an arch bolt as viewed from the side.)
 
 The pc version always shows North 0 degrees and could serve as reference template.
 
