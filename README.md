@@ -6,7 +6,7 @@ A simple compass application for Android. Aside from the North indicator, the co
 It suggests some functions of a poligraph application. "The human body interferes with radio waves by absorbing, reflecting, and scattering them (...)." - Google Search
 
 
-** The latest version has a cover on some of the indicators. (See "Compass8.png")  
+The latest version has a cover on some of the indicators. (See "Compass8.png")  
   
 (The +/- cross design is an arch bolt as viewed from the side.)
 
