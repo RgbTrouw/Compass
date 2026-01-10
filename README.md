@@ -17,6 +17,6 @@ The PC version of the program always shows North 0 degrees and could serve as re
   
 (It also looks a bit like audio speakers as viewed from the back.)
   
-  
+  ...
 
 
