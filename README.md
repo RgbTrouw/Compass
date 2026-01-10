@@ -1,7 +1,7 @@
 # Compass
 
 A simple compass application for Android.
-The model has multiple indicators: a centre, middle and an external one. 
+The model has multiple indicators: centre, middle and external ones. 
 
 As is the case with a compass, this would come useful with a map. 
 A mind map along with psychological triggers could be the subject in this case. 
