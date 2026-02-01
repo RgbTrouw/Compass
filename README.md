@@ -10,7 +10,7 @@ It suggests some functions of a poligraph application.
   
 Different gauges might signify different things.  
   
-The latest version has a cover on some of the indicators. (See "Compass8.png")  
+The latest version has a cover on some of the indicators.   
   
 The cross design of the cover is an arch bolt as viewed from the side.  
   
