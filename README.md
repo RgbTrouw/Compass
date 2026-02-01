@@ -2,6 +2,8 @@
 
 A simple compass application for Android. Aside from the North indicator, the compass has gauges with multiple indicators: centre, middle and external ones. 
 
+  ![alt text](https://github.com/RgbTrouw/Compass/blob/root/Compass8.png)  
+  
 
 It suggests some functions of a poligraph application.  
 "The human body interferes with radio waves by absorbing, reflecting, and scattering them (...)." - Google Search
