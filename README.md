@@ -1,5 +1,7 @@
 # Compass
 
+*New Version Release includes more covers*  
+  
 A simple compass application for Android, made with Unity game IDE. Aside from the North indicator, the compass has randomized gauges with multiple indicators: centre, middle and external ones. 
 
   ![alt text](https://github.com/RgbTrouw/Compass/blob/root/Compass8.png)  
